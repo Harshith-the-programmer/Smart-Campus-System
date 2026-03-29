@@ -70,38 +70,24 @@ SmartCampusJava/
 
 ## 📸 Screenshots
 
-## 📸 Screenshots
-
 <p align="center">
   <img src="screenshots/Login.png" width="300"/>
   <img src="screenshots/AdminRole.png" width="300"/>
 </p>
 
 <p align="center">
-  <img src="screenshots/StudentRole.png" width="300"/>
+  <img src="screenshots/AdminWork.png" width="300"/>
   <img src="screenshots/FacultyRole.png" width="300"/>
 </p>
 
-### 🔐 Login
-<img src="screenshots/Login.png" width="600"/>
+<p align="center">
+  <img src="screenshots/FacultyWork.png" width="300"/>
+  <img src="screenshots/StudentRole.png" width="300"/>
+</p>
 
-### 👨‍💼 Admin Role
-<img src="screenshots/AdminRole.png" width="600"/>
-
-### 🛠️ Admin Work
-<img src="screenshots/AdminWork.png" width="600"/>
-
-### 👩‍🏫 Faculty Role
-<img src="screenshots/FacultyRole.png" width="600"/>
-
-### 📚 Faculty Work
-<img src="screenshots/FacultyWork.png" width="600"/>
-
-### 🎓 Student Role
-<img src="screenshots/StudentRole.png" width="600"/>
-
-### 📝 Student Work
-<img src="screenshots/StudentWork.png" width="600"/>
+<p align="center">
+  <img src="screenshots/StudentWork.png" width="300"/>
+</p>
 
 
 ## 🤝 Contribution
