@@ -70,13 +70,28 @@ SmartCampusJava/
 
 ## 📸 Screenshots
 
-![Login](screenshots/Login.png)
-![AdminRole](screenshots/AdminRole.png)
-![AdminWork](screenshots/AdminWork.png)
-![FacultyRole](screenshots/FacultyRole.png)
-![FacultyWork](screenshots/FacultyWork.png)
-![StudentRole](screenshots/StudentRole.png)
-![StudentWork](screenshots/StudentWork.png)
+
+### 🔐 Login
+<img src="screenshots/Login.png" width="600"/>
+
+### 👨‍💼 Admin Role
+<img src="screenshots/AdminRole.png" width="600"/>
+
+### 🛠️ Admin Work
+<img src="screenshots/AdminWork.png" width="600"/>
+
+### 👩‍🏫 Faculty Role
+<img src="screenshots/FacultyRole.png" width="600"/>
+
+### 📚 Faculty Work
+<img src="screenshots/FacultyWork.png" width="600"/>
+
+### 🎓 Student Role
+<img src="screenshots/StudentRole.png" width="600"/>
+
+### 📝 Student Work
+<img src="screenshots/StudentWork.png" width="600"/>
+
 
 ## 🤝 Contribution
 Feel free to fork this repository and contribute.
