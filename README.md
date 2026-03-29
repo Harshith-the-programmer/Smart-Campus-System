@@ -49,22 +49,23 @@ A Java-based desktop application designed to automate campus operations like stu
 ---
 
 ## 📂 Project Structure
-
+<pre>
 SmartCampusJava/
 │
 ├── src/
-│ └── main/
-│ └── java/
-│ └── main/
-│ ├── App.java
-│ ├── StudentDAO.java
-│ ├── AttendanceDAO.java
-│ ├── FeedbackDAO.java
-│ ├── LoginUI.java
-│ ├── MainUI.java
-│ └── ViewDataUI.java
+│   └── main/
+│       └── java/
+│           └── main/
+│               ├── App.java
+│               ├── StudentDAO.java
+│               ├── AttendanceDAO.java
+│               ├── FeedbackDAO.java
+│               ├── LoginUI.java
+│               ├── MainUI.java
+│               └── ViewDataUI.java
 │
 └── pom.xml
+</pre>
 ---
 
 ## 🤝 Contribution
