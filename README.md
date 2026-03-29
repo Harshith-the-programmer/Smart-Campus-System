@@ -68,7 +68,7 @@ SmartCampusJava/
 </pre>
 ---
 
-## 📸 Screenshots
+## 📸 Screenshots (UI Preview)
 
 <p align="center">
   <img src="screenshots/Login.png" width="300"/><br>
