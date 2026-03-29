@@ -70,6 +70,7 @@ SmartCampusJava/
 
 ## 📸 Screenshots
 
+
 <p align="center">
   <img src="screenshots/Login.png" width="300"/>
   <img src="screenshots/AdminRole.png" width="300"/>
@@ -87,6 +88,7 @@ SmartCampusJava/
 
 <p align="center">
   <img src="screenshots/StudentWork.png" width="300"/>
+  <img src="screenshots/Login.png" width="300"/>
 </p>
 
 
