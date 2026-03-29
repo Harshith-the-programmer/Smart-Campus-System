@@ -70,27 +70,31 @@ SmartCampusJava/
 
 ## 📸 Screenshots
 
+<p align="center">
+  <img src="screenshots/Login.png" width="300"/><br>
+  <b>Login Page</b>
+</p>
 
 <p align="center">
-  <img src="screenshots/Login.png" width="300"/>
   <img src="screenshots/AdminRole.png" width="300"/>
+  <img src="screenshots/AdminWork.png" width="300"/><br>
+  <b>Admin Role</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <b>Admin Work</b>
 </p>
 
 <p align="center">
-  <img src="screenshots/AdminWork.png" width="300"/>
   <img src="screenshots/FacultyRole.png" width="300"/>
+  <img src="screenshots/FacultyWork.png" width="300"/><br>
+  <b>Faculty Role</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <b>Faculty Work</b>
 </p>
 
 <p align="center">
-  <img src="screenshots/FacultyWork.png" width="300"/>
   <img src="screenshots/StudentRole.png" width="300"/>
+  <img src="screenshots/StudentWork.png" width="300"/><br>
+  <b>Student Role</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <b>Student Work</b>
 </p>
-
-<p align="center">
-  <img src="screenshots/StudentWork.png" width="300"/>
-  <img src="screenshots/Login.png" width="300"/>
-</p>
-
 
 ## 🤝 Contribution
 Feel free to fork this repository and contribute.
