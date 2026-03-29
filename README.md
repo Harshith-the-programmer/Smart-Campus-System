@@ -68,6 +68,12 @@ SmartCampusJava/
 </pre>
 ---
 
+## 📸 Screenshots
+
+![Screenshot1](Screenshot%202026-03-29%20160000.png)
+![Screenshot2](Screenshot%202026-03-29%20160354.png)
+![Screenshot3](Screenshot%202026-03-29%20160446.png)
+
 ## 🤝 Contribution
 Feel free to fork this repository and contribute.
 
