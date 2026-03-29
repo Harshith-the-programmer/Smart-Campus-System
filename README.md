@@ -70,6 +70,17 @@ SmartCampusJava/
 
 ## 📸 Screenshots
 
+## 📸 Screenshots
+
+<p align="center">
+  <img src="screenshots/Login.png" width="300"/>
+  <img src="screenshots/AdminRole.png" width="300"/>
+</p>
+
+<p align="center">
+  <img src="screenshots/StudentRole.png" width="300"/>
+  <img src="screenshots/FacultyRole.png" width="300"/>
+</p>
 
 ### 🔐 Login
 <img src="screenshots/Login.png" width="600"/>
