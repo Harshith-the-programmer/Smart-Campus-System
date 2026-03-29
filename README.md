@@ -48,10 +48,11 @@ A Java-based desktop application designed to automate campus operations like stu
 
 ---
 
-## Structure 
+## 📂 Project Structure
 
-  SmartCampusJava/
-│── src/
+SmartCampusJava/
+│
+├── src/
 │ └── main/
 │ └── java/
 │ └── main/
@@ -63,8 +64,7 @@ A Java-based desktop application designed to automate campus operations like stu
 │ ├── MainUI.java
 │ └── ViewDataUI.java
 │
-│── pom.xml
-
+└── pom.xml
 ---
 
 ## 🤝 Contribution
